@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\bin\Debug\net8.0\a square of symbols.exe
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\bin\Debug\net8.0\a square of symbols.deps.json
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\bin\Debug\net8.0\a square of symbols.runtimeconfig.json
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\bin\Debug\net8.0\a square of symbols.dll
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\bin\Debug\net8.0\a square of symbols.pdb
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.dll
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\refint\a square of symbols.dll
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.pdb
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\a square of symbols.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\a square of symbols\a square of symbols\obj\Debug\net8.0\ref\a square of symbols.dll

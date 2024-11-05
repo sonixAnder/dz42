@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\bin\Debug\net8.0\filtering an array.exe
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\bin\Debug\net8.0\filtering an array.deps.json
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\bin\Debug\net8.0\filtering an array.runtimeconfig.json
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\bin\Debug\net8.0\filtering an array.dll
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\bin\Debug\net8.0\filtering an array.pdb
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.dll
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\refint\filtering an array.dll
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.pdb
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\filtering an array.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\filtering an array\filtering an array\obj\Debug\net8.0\ref\filtering an array.dll
